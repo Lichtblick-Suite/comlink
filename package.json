@@ -1,6 +1,6 @@
 {
   "name": "comlink",
-  "version": "4.4.2",
+  "version": "1.0.0",
   "description": "Comlink makes WebWorkers enjoyable",
   "main": "dist/umd/comlink.js",
   "module": "dist/esm/comlink.mjs",
@@ -19,8 +19,8 @@
     "watchtest": "CHROME_ONLY=1 karma start --no-single-run"
   },
   "author": {
-    "name": "Surma",
-    "email": "surma@google.com"
+    "name": "Lichtblick",
+    "email": "lichtblick@bmwgroup.com"
   },
   "files": [
     "dist"
