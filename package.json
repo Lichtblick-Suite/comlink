@@ -1,5 +1,5 @@
 {
-  "name": "comlink",
+  "name": "@lichtblick/comlink",
   "version": "1.0.3",
   "description": "Comlink makes WebWorkers enjoyable",
   "main": "dist/umd/comlink.js",
